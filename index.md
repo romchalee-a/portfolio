@@ -15,7 +15,7 @@ Analyzed customer reviews and compared Youth To The People cleanser product’s 
 
 Designed interactive dashboards and provided a business insight report with data-driven strategic recommendations for a marketing campaign to boost sales
 
-## Apprentice Chef, Inc. Case Study - Machine Learning | Python
+## [Apprentice Chef, Inc. Case Study - Machine Learning | Python](https://romchalee-a.github.io/Apprentice-Chef-Case-Study/)
 01/2021 | San Francisco
 
 Developed a regression model to investigate factors that affect revenue and a classification model to describe customer’s characteristics
