@@ -1,6 +1,6 @@
 # Projects
 
-## [Nutella - Text Analytics | R](https://romchalee-a.github.io/text-analytics-nutella/)
+## [Nutella - Text Analytics | R](romchalee-a.github.io/nutella-text-analytics/)
 03/2021 | San Francisco
 
 Designed a survey and conducted NLP to provide data-driven strategic recommendations for developing Nutella’s marketing strategy
@@ -10,7 +10,7 @@ Designed a survey and conducted NLP to provide data-driven strategic recommendat
 
 Analyzed customer reviews and compared Youth To The People cleanser product’s review with its competitors
 
-## Superstore Dataset - Data Visualization | Tableau
+## [Superstore Dataset - Data Visualization | Tableau](https://romchalee-a.github.io/superstore-business-report/)
 03/2021 | San Francisco
 
 Designed interactive dashboards and provided a business insight report with data-driven strategic recommendations for a marketing campaign to boost sales
