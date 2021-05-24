@@ -10,7 +10,7 @@ Designed a survey and conducted NLP to provide data-driven strategic recommendat
 
 Analyzed customer reviews and compared Youth To The People cleanser product’s review with its competitors
 
-## [Superstore Dataset - Data Visualization | Tableau](https://romchalee-a.github.io/Superstore-Business-R645
+## [Superstore Dataset - Data Visualization | Tableau](https://romchalee-a.github.io/Superstore-Business-Report/)
 03/2021 | San Francisco
 
 Designed interactive dashboards and provided a business insight report with data-driven strategic recommendations for a marketing campaign to boost sales
