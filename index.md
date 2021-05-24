@@ -1,6 +1,6 @@
 # Projects
 
-## Nutella - Text Analytics | R 
+## [Nutella - Text Analytics | R](https://romchalee-a.github.io/text-analytics-nutella/)
 03/2021 | San Francisco
 
 Designed a survey and conducted NLP to provide data-driven strategic recommendations for developing Nutella’s marketing strategy
