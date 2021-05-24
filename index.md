@@ -5,7 +5,7 @@
 
 Designed a survey and conducted NLP to provide data-driven strategic recommendations for developing Nutella’s marketing strategy
 
-## Youth To The People - Text Analytics | R 
+## [Youth To The People - Text Analytics | R](https://romchalee-a.github.io/YTTP-Text-Analytics/)
 03/2021 | San Francisco
 
 Analyzed customer reviews and compared Youth To The People cleanser product’s review with its competitors
